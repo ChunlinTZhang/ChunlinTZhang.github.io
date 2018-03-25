@@ -55,11 +55,12 @@ kramdown:
 # 评论系统
 
 # Gitalk
+
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: cfc690d2770341c27575                            #生成的clientID
   clientSecret: ec5c4407fa5dbd64d40aced5d9597f1a253c88a3    #生成的clientSecret
-  repo: ChunlinTZhang.github.io    #仓库名称
+  repo: Blog-Issue    #仓库名称
   owner: ChunlinTZhang    #github用户名
   admin: ChunlinTZhang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
