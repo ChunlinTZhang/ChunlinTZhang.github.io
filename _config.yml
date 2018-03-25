@@ -11,7 +11,7 @@ github_repo: "https://github.com/ChunlinTZhang/ChunlinTZhang.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "希望你能喜欢我的文章"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -53,17 +53,15 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: cfc690d2770341c27575                            #生成的clientID
+  clientSecret: ec5c4407fa5dbd64d40aced5d9597f1a253c88a3    #生成的clientSecret
+  repo: ChunlinTZhang.github.io    #仓库名称
+  owner: ChunlinTZhang    #github用户名
+  admin: ChunlinTZhang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -71,7 +69,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
